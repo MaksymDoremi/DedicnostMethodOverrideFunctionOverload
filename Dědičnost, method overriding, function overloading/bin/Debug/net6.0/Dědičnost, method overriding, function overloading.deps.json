@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dědičnost, method overriding, function overloading/1.0.0": {
+        "runtime": {
+          "Dědičnost, method overriding, function overloading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dědičnost, method overriding, function overloading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
